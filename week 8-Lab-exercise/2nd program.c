@@ -21,7 +21,7 @@ void main()
 { 
     printf("S->0S0\n"); 
     printf("S->1S1\n"); 
-    printf("S->d\n"); 
+    printf("S->2\n"); 
     printf("Enter the input string followed by $ \n"); 
     scanf("%s",input); 
     ip=input; 
